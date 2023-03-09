@@ -23,6 +23,7 @@
         "@tailwindcss/aspect-ratio": "^0.2.1",
         "@tailwindcss/forms": "^0.3.3",
         "@tailwindcss/typography": "^0.4.1",
+        "latest-version": "^7.0.0",
         "vercel": "^28.16.13"
     }
 }
